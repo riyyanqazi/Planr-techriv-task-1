@@ -237,6 +237,9 @@ font-family: inter;
 }
 
 /* Revolutionize-section */
+.Revolutionize-section{
+  padding-bottom: 62px;
+}
 
 /* rev-label */
 .rev-label {
