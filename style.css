@@ -1045,7 +1045,9 @@ width: fit-content;
 
 /* media query for all content */
 @media (max-width: 576px) {
-
+.get-started{
+  padding: 6px;
+}
 .hero-sec-heading,.hero-sec-para{
   max-width: none;
 }
@@ -1146,6 +1148,9 @@ width: fit-content;
 }
 
 @media (max-width: 991px) {
+  .main-card{
+    gap: 20px;
+  }
   .seamless-heading,.seamless-heading2 {
     text-align: center;
     font-size: 30px;
