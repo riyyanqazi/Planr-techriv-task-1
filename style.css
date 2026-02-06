@@ -44,6 +44,16 @@ h6 {
     will-change: transform;
     margin: 0px auto;
 }
+
+
+/* btn-wrap-2 */
+.btn-wrap2{
+  width: fit-content;
+    border-radius: 38px;
+    border: 4px solid #FDB99C1A;
+}
+
+/* btn-wrap */
 .btn-wrap {
     display: inline-block;
     border-radius: 38px;
@@ -847,8 +857,8 @@ max-width: 90%;
 .btn-primary-sec {
   font-family: inter;
 width: fit-content;
-
-  gap: 4px;
+border: 4px solid #FDB99C1A;
+gap: 4px;
   opacity: 1;
   padding-top: 8px;
     padding-right: 8px;
@@ -945,7 +955,7 @@ width: fit-content;
 
 /* images-content-sec */
 .images-content-sec {
-  padding-top: 87px !important;
+  padding: 87px  50px 87px 50px ;
 }
 
 /* Base (mobile) */
@@ -1161,6 +1171,13 @@ width: fit-content;
   .faqs-heading {
     text-align: center;
   }
+  .btn-wrap2{
+  width: fit-content;
+  margin: 0 auto;
+
+}
+  
+
   .faqs-para,
   .join-para,
   .seamless-para2 {
