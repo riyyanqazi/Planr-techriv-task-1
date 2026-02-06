@@ -836,11 +836,10 @@ max-width: 90%;
 }
 /* faqs-para */
 .faqs-para {
-  font-family: inter;
+  opacity: 80%;
   font-weight: 400;
   font-style: Regular;
   font-size: 14px;
-  line-height: 20px;
   margin-top: 24px;
 }
 
