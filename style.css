@@ -441,7 +441,7 @@ opacity: 75%;
 .slider-track {
   display: flex;
   gap: 40px;
-  animation: scroll 4s linear infinite;
+  animation: scroll 7s linear infinite;
 
 
 }
@@ -1105,12 +1105,86 @@ text-align: center;
   
 }
 
+
+.swiper {
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 86px;
+
+  cursor: grab;
+}
+
+.swiper-slide {
+  border-radius: 18px;
+  padding: 32px;
+  background-position: center;
+  background-size: cover;
+  background-color: #14151a;
+}
+
+.start-img {
+  text-align: left;
+  height: 20px;
+}
+.client-card-para {
+  margin-top: 24px;
+  font-family: Inter;
+  font-weight: 500;
+  font-style: Medium;
+  font-size: 18px;
+  line-height: 150%;
+  letter-spacing: 0%;
+}
+.n-surname {
+  margin-top: 24px;
+  font-family: Inter;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 12.49px;
+  line-height: 150%;
+  letter-spacing: 0%;
+}
+.p-campany {
+  margin-top: 8px;
+  font-family: Inter;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 12.49px;
+  line-height: 155%;
+  letter-spacing: 0%;
+}
+
+/* ///// */
+.glow-overlay {
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    transform: translateX(-50%);
+    width: 100%;
+    height: 300px;
+    background: linear-gradient(180deg, rgba(22, 22, 22, 0), #992E00, #CF4B13, #FF4C00 83.41%);
+
+    opacity: 0.4;
+    filter: blur(232px);
+    border-radius: 9999px;
+    pointer-events: none;
+    mix-blend-mode: color-dodge;
+}
+
+
+
+
+
+
 /* media query for all content */
 @media (max-width: 576px) {
  
   
   .faq-question{
     font-size: 14px;
+  }
+  .client-card-para{
+font-size: 14px;
   }
   
 .get-started{
@@ -1251,69 +1325,4 @@ font-size: 12px;
     text-align: center;
     font-size: 13px;
   }
-}
-
-.swiper {
-  width: 100%;
-  padding-top: 50px;
-  padding-bottom: 86px;
-
-  cursor: grab;
-}
-
-.swiper-slide {
-  border-radius: 18px;
-  padding: 32px;
-  background-position: center;
-  background-size: cover;
-  background-color: #14151a;
-}
-
-.start-img {
-  text-align: left;
-  height: 20px;
-}
-.client-card-para {
-  margin-top: 24px;
-  font-family: Inter;
-  font-weight: 500;
-  font-style: Medium;
-  font-size: 18px;
-  line-height: 150%;
-  letter-spacing: 0%;
-}
-.n-surname {
-  margin-top: 24px;
-  font-family: Inter;
-  font-weight: 700;
-  font-style: Bold;
-  font-size: 12.49px;
-  line-height: 150%;
-  letter-spacing: 0%;
-}
-.p-campany {
-  margin-top: 8px;
-  font-family: Inter;
-  font-weight: 400;
-  font-style: Regular;
-  font-size: 12.49px;
-  line-height: 155%;
-  letter-spacing: 0%;
-}
-
-/* ///// */
-.glow-overlay {
-    position: absolute;
-    left: 50%;
-    bottom: 0px;
-    transform: translateX(-50%);
-    width: 100%;
-    height: 300px;
-    background: linear-gradient(180deg, rgba(22, 22, 22, 0), #992E00, #CF4B13, #FF4C00 83.41%);
-
-    opacity: 0.4;
-    filter: blur(232px);
-    border-radius: 9999px;
-    pointer-events: none;
-    mix-blend-mode: color-dodge;
 }
