@@ -83,7 +83,7 @@ background: no-repeat;
 }
 .btn:hover {
     background: #9e4a04;
-    box-shadow: 0 10px 0px rgba(255, 81, 0, 0.918);
+    box-shadow: 0 10px 24px rgba(255, 81, 0, 0.918);
     transform: translateY(-2px);
 }
 
