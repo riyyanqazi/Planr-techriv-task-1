@@ -44,16 +44,12 @@ h6 {
     will-change: transform;
     margin: 0px auto;
 }
-<<<<<<< HEAD
 
-
-=======
 /* ellipse3 */
 .ellipse3{
   position: absolute;
 background: no-repeat;
 }
->>>>>>> 58e3d04 (update)
 /* btn-wrap-2 */
 .btn-wrap2{
   width: fit-content;
@@ -68,10 +64,7 @@ background: no-repeat;
     border: 4px solid #FDB99C1A;
 }
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 58e3d04 (update)
 .btn {
     display: flex;
     align-items: center;
@@ -85,8 +78,6 @@ background: no-repeat;
     color: #fff;
     white-space: nowrap;
     flex-shrink: 0;
-<<<<<<< HEAD
-=======
     transition: all 0.3s ease;
 
 }
@@ -94,24 +85,12 @@ background: no-repeat;
     background: #9e4a04;
     box-shadow: 0 10px 22px rgba(255, 81, 0, 0.918);
     transform: translateY(-2px);
->>>>>>> 58e3d04 (update)
 }
 
 .arrow {
     width: 16px;
 }
 
-<<<<<<< HEAD
-.btn:hover,
-.btn:focus,
-.btn:active {
-    background: #FF4C00 !important;
-    color: #fff !important;
-    box-shadow: none;
-}
-=======
-
->>>>>>> 58e3d04 (update)
 .ellipse-img {
     width: 100%;
     max-width: 1124px;
@@ -125,35 +104,29 @@ background: no-repeat;
 /* hero-label */
 .hero-label {
   /* height: 22.242856979370117; */
-<<<<<<< HEAD
   width: fit-content;
   gap: 4px;
   opacity: 1;
   border-radius: 3118px;
   padding: 6px;
-=======
   display: flex;
   width: fit-content;
   gap: 6px;
   opacity: 1;
   border-radius: 3118px;
   padding:4px ;
->>>>>>> 58e3d04 (update)
   background-color: #fdb99c33;
 }
 /* hero-label-up */
 .hero-label-up {
   opacity: 1;
-<<<<<<< HEAD
   font-size: 16px;
   border-radius: 3118px;
   padding-right: 8px;
   padding-left: 6px;
-=======
   font-size: 10px;
 padding: 1px 6px 0px 6px;
   border-radius: 3118px;
->>>>>>> 58e3d04 (update)
   background-color: #ff4c00;
   color: #ffffff;
 }
@@ -161,11 +134,8 @@ padding: 1px 6px 0px 6px;
 /* hero-label-context */
 .hero-label-context {
   font-weight: 500;
-<<<<<<< HEAD
   font-size: 16px;
-=======
   font-size: 12px;
->>>>>>> 58e3d04 (update)
   background-color: transparent;
   color: #ffffff;
   border: none;
@@ -300,15 +270,11 @@ font-family: inter;
 .rev-label {
 gap: 4px;
 opacity: 1;
-<<<<<<< HEAD
 padding-top: 6px;
 padding-right: 6px;
 padding-bottom: 6px;
 padding-left: 6px;
-=======
 padding: 4px 10px  4px 10px;
->>>>>>> 58e3d04 (update)
-
 border-radius: 3118px;
 background-color: #232226;
 color: #ffffff;
@@ -328,11 +294,8 @@ font-size: 12px;
   gap: 2px;
   opacity: 1;
   border-radius: 3118px;
-<<<<<<< HEAD
   padding: 8px;
-=======
   padding: 4px 10px 4px 10px;
->>>>>>> 58e3d04 (update)
   color: #fff;
 border: 1px solid #FFFFFF33;
 
@@ -343,10 +306,7 @@ border: 1px solid #FFFFFF33;
 .mark-text-rev {
   font-weight: 500;
   font-style: Medium;
-<<<<<<< HEAD
-=======
   font-weight: 700;
->>>>>>> 58e3d04 (update)
 }
 /* rev-heading */
 .rev-heading {
@@ -393,16 +353,15 @@ border: 1px solid #FFFFFF33;
 
 /* seamless-para2 */
 .seamless-para2 {
-<<<<<<< HEAD
-  margin-top: 18px;
-=======
->>>>>>> 58e3d04 (update)
   margin-bottom: 28px;
   font-weight: 400;
   font-size: 14px;
 opacity: 75%;
 }
 /* .join-para */
+.join-para{
+  margin-bottom: 18px;
+}
 
 /* top-btn-primary */
 .btn-primary-top {
@@ -482,23 +441,17 @@ opacity: 75%;
 .slider-track {
   display: flex;
   gap: 40px;
-<<<<<<< HEAD
   animation: scroll 4s linear infinite;
 
 
 }
 
-=======
-  animation: scroll 8s linear infinite;
 
-
-}
 /* content-boxs */
 .content-boxs{
   padding-top: 20px;
   padding-bottom: 85px;
 }
->>>>>>> 58e3d04 (update)
 .slider-track img {
   height: 30px;
   width: auto;
@@ -514,13 +467,8 @@ opacity: 75%;
 }
 
 /* client saying section */
-<<<<<<< HEAD
-.client-saying {
-  padding-top: 84px;
-}
-=======
 
->>>>>>> 58e3d04 (update)
+
 /* mark-text */
 .mark-text {
   font-family: Playfair Display;
@@ -565,13 +513,10 @@ opacity: 75%;
   text-align: center;
   color: #ff4c00;
 }
-<<<<<<< HEAD
-=======
 /* card-ul */
 .card-ul{
   margin-bottom: 0px;
 }
->>>>>>> 58e3d04 (update)
 /* unleash-title */
 .unleash-title {
   max-width: 400px;
@@ -665,18 +610,14 @@ ul {
 ul li {
   display: flex;
   gap: 12px;
-<<<<<<< HEAD
-
   font-weight: 500;
   font-style: Medium;
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0%;
-=======
   font-weight: 500;
   font-size: 14px;
   line-height: 150%;
->>>>>>> 58e3d04 (update)
 }
 
 /* client-saying */
@@ -854,11 +795,8 @@ margin-bottom: 72px;
   font-family: inter;
   background: #fff;
   border-bottom: 1px solid #666666;
-<<<<<<< HEAD
   margin-bottom: 10px;
-=======
   margin-bottom: 30px;
->>>>>>> 58e3d04 (update)
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
   overflow: hidden;
   transition: all 0.3s ease;
@@ -869,11 +807,8 @@ margin-bottom: 72px;
   border: none;
   width: 100%;
   text-align: left;
-<<<<<<< HEAD
   padding: 18px 20px;
-=======
   padding: 12px 20px;
->>>>>>> 58e3d04 (update)
   font-size: 20px;
   font-weight: 500;
   cursor: pointer;
@@ -1064,12 +999,8 @@ gap: 4px;
 
 /* footer */
 .site-footer {
-<<<<<<< HEAD
-  background: #1e1615;
-=======
   position: relative;
->>>>>>> 58e3d04 (update)
-  padding: 80px 0 40px;
+  padding: 80px 0 88px;
   color: #9ca3af;
   font-size: 14px;
 }
@@ -1110,10 +1041,7 @@ gap: 4px;
 /* Lists */
 .site-footer ul {
   list-style: none;
-<<<<<<< HEAD
-=======
   justify-content: center;
->>>>>>> 58e3d04 (update)
   padding: 0;
   margin: 0;
 }
@@ -1158,8 +1086,6 @@ gap: 4px;
     flex-wrap: wrap;
     gap: 16px;
   }
-<<<<<<< HEAD
-=======
   .copy-right{
 text-align: center;
   }
@@ -1169,20 +1095,18 @@ text-align: center;
   .copyright{
     text-align: center;
   }
->>>>>>> 58e3d04 (update)
+
+  
 }
 
 /* media query for all content */
 @media (max-width: 576px) {
-<<<<<<< HEAD
-=======
  
   
-  .faq-item{
-    margin-bottom: 0px;
+  .faq-question{
+    font-size: 14px;
   }
   
->>>>>>> 58e3d04 (update)
 .get-started{
   padding: 6px;
 }
@@ -1217,15 +1141,13 @@ text-align: center;
   .main-card{
     gap: 20px;
   }
-<<<<<<< HEAD
-=======
+ HEAD
   .faq-question{
 font-size: 12px;
   }
   .des{
     font-size: 12px;
   }
->>>>>>> 58e3d04 (update)
 }
 
 @media (max-width: 425px) {
@@ -1271,13 +1193,11 @@ font-size: 12px;
     text-align: center;
     font-size: 12px;
   }
-<<<<<<< HEAD
+   HEAD
   .faq-item {
     margin-bottom: 30px;
   }
-=======
   
->>>>>>> 58e3d04 (update)
   .card-subhead {
     font-size: 32px;
   }
@@ -1377,3 +1297,18 @@ font-size: 12px;
 }
 
 /* ///// */
+.glow-overlay {
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    transform: translateX(-50%);
+    width: 100%;
+    height: 300px;
+    background: linear-gradient(180deg, rgba(22, 22, 22, 0), #992E00, #CF4B13, #FF4C00 83.41%);
+
+    opacity: 0.4;
+    filter: blur(232px);
+    border-radius: 9999px;
+    pointer-events: none;
+    mix-blend-mode: color-dodge;
+}
