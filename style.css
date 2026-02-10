@@ -803,6 +803,7 @@ margin-bottom: 72px;
 }
 
 .faq-question {
+  gap: 16px;
   background: #0b0a0e;
   border: none;
   width: 100%;
@@ -1095,7 +1096,12 @@ text-align: center;
   .copyright{
     text-align: center;
   }
-
+.mySwiper{
+  padding: 20px;
+}
+.card{
+  padding-bottom: 0px;
+}
   
 }
 
@@ -1167,7 +1173,6 @@ font-size: 12px;
   .card-head,
   .card-para {
     text-align: center;
-    margin-bottom: 20px;
   }
   .unleash-head,
   .mark-text-unleash {
