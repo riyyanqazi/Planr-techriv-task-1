@@ -1,0 +1,18 @@
+<svg width="1124" height="463" viewBox="0 0 1124 463" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.4" filter="url(#filter0_f_1344_1675)" style="mix-blend-mode:color-dodge">
+<ellipse cx="561.863" cy="317.235" rx="557.955" ry="327.36" fill="url(#paint0_linear_1344_1675)"/>
+</g>
+<defs>
+<filter id="filter0_f_1344_1675" x="-229.68" y="-243.712" width="1583.08" height="1121.89" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="116.794" result="effect1_foregroundBlur_1344_1675"/>
+</filter>
+<linearGradient id="paint0_linear_1344_1675" x1="561.863" y1="-10.125" x2="561.863" y2="544.264" gradientUnits="userSpaceOnUse">
+<stop offset="0.26" stop-color="#161616" stop-opacity="0"/>
+<stop offset="0.615" stop-color="#992E00"/>
+<stop offset="0.795" stop-color="#CF4B13"/>
+<stop offset="0.985" stop-color="#FF4C00"/>
+</linearGradient>
+</defs>
+</svg>
