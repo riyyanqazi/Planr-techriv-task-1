@@ -83,7 +83,7 @@ background: no-repeat;
 }
 .btn:hover {
     background: #9e4a04;
-    box-shadow: 0 10px 22px rgba(255, 81, 0, 0.918);
+    box-shadow: 0 10px 0px rgba(255, 81, 0, 0.918);
     transform: translateY(-2px);
 }
 
@@ -1001,6 +1001,7 @@ gap: 4px;
 /* /* footer * */
 .site-footer {
   position: relative;
+background-color: #141416;
   padding: 80px 0 88px;
   color: #9ca3af;
   font-size: 14px;
